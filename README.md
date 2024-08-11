@@ -19,7 +19,7 @@ https://github.com/LegardaGM/Bruno-Munari-faces/
 
 3. Presiona la tecla de espacio para descargar las 4 caras como una imagen en formato png.
 
-¡Eso es todo! Ahora puedes descargar los cuatro rostros de Bruno Munari. 😊
+¡Eso es todo! Ahora puedes descargar los cuatro rostros de Bruno Munari.😊
 
 ## 💻 Tecnologías utilizadas
 
